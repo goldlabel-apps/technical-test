@@ -1,11 +1,5 @@
-
-## Step 2: Find The Problem
-
-#### What are we looking for?
-
-
+## Step 2: Create an issue
 
 #### Please do the following
 
-
-## [Next Step](./.md)
+##### [Start](../README.md) | [Next Step](03_pull-request.md)

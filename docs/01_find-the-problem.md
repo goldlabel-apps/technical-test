@@ -1,7 +1,4 @@
-
 ## Step 1: Find The Problem
-
-#### What are we looking for?
 
 This is about testing and capturing small tasks in a scalable, effective and efficient way. The only thing required in this step is to open the app and actually look at it. In this scenario we have a simple React App which still has some Lore Ipsum in it.
 
@@ -10,4 +7,4 @@ This is about testing and capturing small tasks in a scalable, effective and eff
 1. [Open the app](https://listingslab-recruitment-test.web.app/) in your browser.
 2. Click around until you notice a button with the text 'Lorem Ipsum'
 
-## [Next Step](./02_create-issue.md)
+##### [Start](../README.md) | [Next Step](./02_create-issue.md)
