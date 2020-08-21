@@ -1,6 +1,7 @@
-## Step 3: Wait for Pull Request
+## Step 4: Review
 
 #### Please do the following
-and either approve it or ask for revisions as required
 
-##### [Start](../README.md) | [Next Step](./04_review.md)
+- Review the pull request and either approve it or ask for revisions as required
+
+##### [Complete](./05_complete.md)
